@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.173527e4.css",
+    "main.js": "/static/js/main.b4f2f649.js",
+    "static/js/453.28d42d88.chunk.js": "/static/js/453.28d42d88.chunk.js",
+    "static/media/postgres.png": "/static/media/postgres.519a271ad6537a824c0c.png",
+    "static/media/profilepicn.png": "/static/media/profilepicn.1038de6a7b9d43ba9dd5.png",
+    "static/media/mysql.png": "/static/media/mysql.c49b03c85679f7e716a0.png",
+    "static/media/event-postmgit.jpg": "/static/media/event-postmgit.ae68a1fc2b346db1316c.jpg",
+    "static/media/flask.jpg": "/static/media/flask.98ac882f8e85a97e40d2.jpg",
+    "static/media/react.png": "/static/media/react.a2203d7ec91fc9bc60d5.png",
+    "static/media/cs.jpg": "/static/media/cs.da7296d7c10b2067de91.jpg",
+    "static/media/JS.png": "/static/media/JS.d206e1f67e4c0985166c.png",
+    "static/media/ts.png": "/static/media/ts.c6f980241f6f04545895.png",
+    "static/media/uga logo.png": "/static/media/uga logo.12713406108a9af44e57.png",
+    "static/media/python.jpg": "/static/media/python.df40170139b594025a59.jpg",
+    "static/media/nodejs.jpg": "/static/media/nodejs.413f6107011d5a98f1e9.jpg",
+    "index.html": "/index.html",
+    "main.173527e4.css.map": "/static/css/main.173527e4.css.map",
+    "main.b4f2f649.js.map": "/static/js/main.b4f2f649.js.map",
+    "453.28d42d88.chunk.js.map": "/static/js/453.28d42d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.173527e4.css",
+    "static/js/main.b4f2f649.js"
+  ]
+}
