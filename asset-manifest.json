@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HARIPRIYA02/static/css/main.173527e4.css",
-    "main.js": "/HARIPRIYA02/static/js/main.fbc503c5.js",
+    "main.js": "/HARIPRIYA02/static/js/main.077aa2d1.js",
     "static/js/453.28d42d88.chunk.js": "/HARIPRIYA02/static/js/453.28d42d88.chunk.js",
     "static/media/postgres.png": "/HARIPRIYA02/static/media/postgres.519a271ad6537a824c0c.png",
     "static/media/profilepicn.png": "/HARIPRIYA02/static/media/profilepicn.1038de6a7b9d43ba9dd5.png",
@@ -12,16 +12,17 @@
     "static/media/cs.jpg": "/HARIPRIYA02/static/media/cs.da7296d7c10b2067de91.jpg",
     "static/media/JS.png": "/HARIPRIYA02/static/media/JS.d206e1f67e4c0985166c.png",
     "static/media/ts.png": "/HARIPRIYA02/static/media/ts.c6f980241f6f04545895.png",
+    "static/media/aws.png": "/HARIPRIYA02/static/media/aws.7322b6e4bff581d35533.png",
     "static/media/uga logo.png": "/HARIPRIYA02/static/media/uga logo.12713406108a9af44e57.png",
     "static/media/python.jpg": "/HARIPRIYA02/static/media/python.df40170139b594025a59.jpg",
     "static/media/nodejs.jpg": "/HARIPRIYA02/static/media/nodejs.413f6107011d5a98f1e9.jpg",
     "index.html": "/HARIPRIYA02/index.html",
     "main.173527e4.css.map": "/HARIPRIYA02/static/css/main.173527e4.css.map",
-    "main.fbc503c5.js.map": "/HARIPRIYA02/static/js/main.fbc503c5.js.map",
+    "main.077aa2d1.js.map": "/HARIPRIYA02/static/js/main.077aa2d1.js.map",
     "453.28d42d88.chunk.js.map": "/HARIPRIYA02/static/js/453.28d42d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.173527e4.css",
-    "static/js/main.fbc503c5.js"
+    "static/js/main.077aa2d1.js"
   ]
 }
