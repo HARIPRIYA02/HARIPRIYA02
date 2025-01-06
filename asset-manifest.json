@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HARIPRIYA02/static/css/main.173527e4.css",
-    "main.js": "/HARIPRIYA02/static/js/main.a4e4b2dc.js",
+    "main.js": "/HARIPRIYA02/static/js/main.b84181a1.js",
     "static/js/453.28d42d88.chunk.js": "/HARIPRIYA02/static/js/453.28d42d88.chunk.js",
     "static/media/postgres.png": "/HARIPRIYA02/static/media/postgres.519a271ad6537a824c0c.png",
     "static/media/profilepicn.png": "/HARIPRIYA02/static/media/profilepicn.1038de6a7b9d43ba9dd5.png",
@@ -18,11 +18,11 @@
     "static/media/nodejs.jpg": "/HARIPRIYA02/static/media/nodejs.413f6107011d5a98f1e9.jpg",
     "index.html": "/HARIPRIYA02/index.html",
     "main.173527e4.css.map": "/HARIPRIYA02/static/css/main.173527e4.css.map",
-    "main.a4e4b2dc.js.map": "/HARIPRIYA02/static/js/main.a4e4b2dc.js.map",
+    "main.b84181a1.js.map": "/HARIPRIYA02/static/js/main.b84181a1.js.map",
     "453.28d42d88.chunk.js.map": "/HARIPRIYA02/static/js/453.28d42d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.173527e4.css",
-    "static/js/main.a4e4b2dc.js"
+    "static/js/main.b84181a1.js"
   ]
 }
