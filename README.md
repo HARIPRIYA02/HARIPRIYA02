@@ -1,2 +1,2 @@
-View my portfolio at :
-https://haripriya02.github.io/HARIPRIYA02/
+View my portfolio:
+https://cardtr.ee/haripriya
