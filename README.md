@@ -27,7 +27,12 @@ With a strong foundation in software development and a drive for innovation, I e
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/hari-priya-muppidi-98b7a63a9]
+
+<p>
+  <a href="https://www.linkedin.com/in/hari-priya-muppidi-98b7a63a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
