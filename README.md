@@ -61,9 +61,7 @@ AWS • Google Cloud • Azure
 ## 🏆 Certifications & Achievements
 - AWS Certified AI Practitioner
 - LinkedIn Complete Guide to Git
-- AWS Cloud Storage and Data Management  
-- Microsoft Azure Fundamentals  
-- SAIR 2024 Conference Presenter — *NLP & K-means Clustering*
+- Microsoft Azure Fundamentals 
 
 ---
 
