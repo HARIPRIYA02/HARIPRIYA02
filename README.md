@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 ## 💻 About Me
-I'm a passionate **Software Engineer** and a **Master’s student in Computer Science at the University of Georgia**, specializing in **Full-Stack Development** and **Machine Learning**.  
+I'm a passionate **Software Engineer** with a **Master’s degree in Computer Science at the University of Georgia**, specializing in **Full-Stack Development** and **Machine Learning**.  
 With a strong foundation in software development and a drive for innovation, I enjoy solving complex problems and building impactful solutions.
 
 ---
